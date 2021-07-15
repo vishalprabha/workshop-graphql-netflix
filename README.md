@@ -9,7 +9,7 @@
 <br />
 
 ## 📝 Description
-Developed a Netflix homepage clone with **ReactJS** running on **Astra DB** that leverages a **GraphQL API** with *paging* and *infitine* scrolling features. The project was an outcome of a workshop focused on leveraging Astra DB(cloud-native Cassandra application development) with GraphQL and deployment on *netlify*.
+Developed a Netflix homepage clone with **ReactJS** running on **Astra DB** that leverages a **GraphQL API** with *paging* and *infitine* scrolling. The project was an outcome of a workshop focused on leveraging Astra DB(cloud-native Cassandra application development) with GraphQL and deployment on *netlify*.
 
 <br />
 
@@ -18,7 +18,7 @@ Developed a Netflix homepage clone with **ReactJS** running on **Astra DB** that
 * Leverage DataStax Astra DB and GitPod
 * Learn **GraphQL API** and how to use it with a database to create the tables and navigate the data.
 * Learn about **paging** and **infinite scrolling** in web ui
-* Deploy a Netflix clone to production using Netlify
+* Deploy the project to production with Netlify
 
 <br />
 
